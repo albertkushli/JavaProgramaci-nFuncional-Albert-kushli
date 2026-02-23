@@ -1,44 +1,6 @@
-# EA-JS
+Este repositorio contiene la resolución completa del ejercicio de programación funcional aplicando filter, map, reduce y el operador spread sobre datos obtenidos desde una API pública.
+El desarrollo final se encuentra en la rama master, donde se han realizado los commits que muestran la evolución del trabajo, mientras que la rama main conserva el estado base inicial.
+Para la realización de la práctica se ha consultado principalmente la documentación oficial de MDN sobre métodos de arrays en JavaScript y un vídeo introductorio sobre programación funcional en JavaScript en YouTube. 
+Se ha utilizado IA generativa de forma puntual como apoyo para revisar la corrección del enfoque funcional y mejorar la redacción de la explicación técnica, pero la implementación y la lógica del ejercicio han sido desarrolladas de forma propia. 
+El vídeo explicativo de la práctica puede consultarse en el siguiente enlace: https://drive.google.com/file/d/1bl6ifIJ_KVjDD8fR9qZA17X0RtJUPZu_/view
 
-## Requisitos Previos
-
-Asegúrate de tener instalados los siguientes programas en tu sistema:
-
-- [Node.js](https://nodejs.org/) (versión 14.x o superior)
-
-## Estrutura
-
-```
-├── 1-JS
-│   └── main.js
-├── 2-Functional
-│   └── main.js
-├── 3-javascript-arrays
-│   ├── 0-data.js
-│   ├── 1-basics.js
-│   ├── 2-forEach.js
-│   ├── 3-map.js
-│   ├── 4-filter.js
-│   ├── 5-reduce.js
-│   ├── 6-sort.js
-│   └── 7-combined.js
-├── 4-event-loop
-│   ├── 1-callstack.js
-│   ├── 2-timeout.js
-│   ├── 3-microtask.js
-│   ├── 4-callbacks.js
-│   ├── 5-secuencial-callbacks.js
-│   ├── 6-promesas.js
-│   ├── 7-secuencial-promises.js
-│   ├── 8-async.js
-│   └── 9-secuencial-async.js
-├── LICENSE
-└── README.md
-```
-
-## Ejecución
-
-Ejecutar JS
-```
-node main.js
-```
